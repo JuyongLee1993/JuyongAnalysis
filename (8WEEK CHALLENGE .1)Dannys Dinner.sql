@@ -1,3 +1,21 @@
+--------------------------------
+--CASE STUDY #1: DANNY'S DINER--
+--------------------------------
+
+--Author: Juyong Lee
+--Date: 10/06/2022 
+--Tool used: MS SQL Server
+
+
+
+------------------ Introduction ----------------------------
+Danny seriously loves Japanese food so in the beginning of 2021, 
+he decides to embark upon a risky venture and opens up a cute little restaurant that sells his 3 favourite foods: sushi, curry and ramen.
+Danny’s Diner is in need of your assistance to help the restaurant stay afloat
+the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business.
+
+
+------------------ Make Tables ----------------------------
 CREATE SCHEMA dannys_diner;
 
 CREATE TABLE sales (
@@ -55,7 +73,8 @@ VALUES
   select * from myportfolio..members
   select * from myportfolio..sales
   select * from myportfolio..menu
-
+  
+------------------ Case study Questions----------------------------
 -- 1. What is the total amount each customer spent at the restaurant?
 -- 2. How many days has each customer visited the restaurant?
 -- 3. What was the first item from the menu purchased by each customer?
@@ -66,7 +85,7 @@ VALUES
 -- 8. What is the total items and amount spent for each member before they became a member?
 -- 9.  If each $1 spent equates to 10 points and sushi has a 2x points multiplier - how many points would each customer have?
 -- 10. In the first week after a customer joins the program (including their join date) they earn 2x points on all items, not just sushi - how many points do customer A and B have at the end of January?
-
+-------------------------------------------------------------------
 
 
 --1.what is the total amount each customer spent at the resaurant.
