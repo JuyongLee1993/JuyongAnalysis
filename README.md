@@ -1,4 +1,4 @@
-# 🚀Juyong's SQL projects repository!🚀
+# 🚀Juyong's SQL projects repository🚀
 
 
 
