@@ -1,4 +1,9 @@
-# JuyongAnalysis
+# 🚀Juyong's SQL projects repository!🚀
 
 
-![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/112268035/194228989-ef17fcce-89a8-4462-aa6c-922401d3c947.gif)
+
+Hi guy👋 Thank you for your visiting!
+
+If you have any questions, Please reach me [here](https://www.linkedin.com/in/juyonglee55/)📫
+
+⚡ I hope you have a great day⚡ 
